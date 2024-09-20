@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-generativeai
+paddleocr
+opencv-python
+Pillow
+matplotlib
+streamlit
